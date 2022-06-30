@@ -1,0 +1,1 @@
+curl get -k "localhost:8080/api/v1/phone"
